@@ -1,0 +1,7 @@
+versao=1.6.0
+assinatura=bca0deffb8ebbe04a5023d68e7b7902b0808781ec692a6f81ff88c0a59d3b4924330f447ab8e511759b01574857e43ab2e1216121c540759233f6eb9df24870b
+---
+Portal PDV 1.6
+- Nome novo: Portal PDV (os dados continuam os mesmos).
+- Atualização automática: quando sair versão nova aparece uma faixa no topo.
+  Só atualiza quando alguém clicar em "Atualizar agora".
